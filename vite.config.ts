@@ -13,5 +13,5 @@ export default defineConfig({
       },
     ],
   },
-  base: '/Hospital-Website',
+  base: '/',  // Use this if your site is hosted at the root
 });
